@@ -1,2 +1,2 @@
-# Simple CMD Shells
-> A set of simple shells to upload and get command execution on a web server. 
+# Simple PHP Shell
+> A php shell to upload and get command execution on a web server. 
